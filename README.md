@@ -1,0 +1,3 @@
+# Unsafe Rust Pointer Example
+
+This repository demonstrates a potential pitfall of using raw pointers in unsafe Rust code. The example shows how modifying a vector through a raw pointer can lead to unexpected behavior or memory corruption if not carefully managed.  The solution provides a safer alternative.  This is a crucial example for understanding the complexities of unsafe Rust and the importance of careful memory management.
